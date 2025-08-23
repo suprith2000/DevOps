@@ -1,0 +1,7 @@
+{
+  "remoteURL": "https://github.com/suprith2000/DevOps.git",
+  "gitLocation": "",
+  "syncinterval": 10,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true
+}
