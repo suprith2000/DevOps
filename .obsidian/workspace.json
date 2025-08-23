@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "jenkins/To install jenkins on mac.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of To install jenkins on mac"
             }
           },
           {
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fedc88ed4211e6bc",
+  "active": "711324473b2431f1",
   "lastOpenFiles": [
     "Devops/Docker/4.DOCKER & Kubernetes.pdf",
     "jenkins/To install jenkins on mac.md",
