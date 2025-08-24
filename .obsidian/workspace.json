@@ -37,12 +37,14 @@
             "id": "57203d69046cbd4d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Devops/shell_scripting.pdf"
+                "file": "Authentication_aothorization/basics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "shell_scripting"
+              "icon": "lucide-file",
+              "title": "basics"
             }
           }
         ],
@@ -119,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devops/shell_scripting.pdf",
+                "file": "Authentication_aothorization/basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shell_scripting"
+              "title": "Backlinks for basics"
             }
           },
           {
@@ -206,8 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "239209ee4e4d0312",
+  "active": "57203d69046cbd4d",
   "lastOpenFiles": [
+    "Pasted image 20250824140802.png",
+    "Devops/shell_scripting.pdf",
+    "Authentication_aothorization/basics.md",
     "Authentication_aothorization",
     "Devops_notes_word_docs/rds.docx",
     "Devops_notes_word_docs/devops all scripts.txt",
@@ -217,8 +222,6 @@
     "Devops_notes_word_docs/6.Terraform (1).docx",
     "Devops_notes_word_docs/5.Helm (1).docx",
     "Devops_notes_word_docs/4.DOCKER & Kubernetes.docx",
-    "Devops_notes_word_docs/3.AWS INTERVIEW NOTES (1).docx",
-    "Devops_notes_word_docs/2.Linux, Git Jenkins & AWS.docx",
     "Screenshot 2025-06-19 at 12.04.08 PM.png",
     "Screenshot 2025-06-18 at 2.51.33 PM.png",
     "Pasted image 20250619115853.png",
