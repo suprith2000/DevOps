@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Devops/shell_scripting.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for shell_scripting"
             }
           },
           {
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "239209ee4e4d0312",
+  "active": "c029bf25feef9bf7",
   "lastOpenFiles": [
     "Devops_notes_word_docs/rds.docx",
     "Devops_notes_word_docs/devops all scripts.txt",
