@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jenkins/To install jenkins on mac.md",
+                "file": "jenkins/install jenkins on mac.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To install jenkins on mac"
+              "title": "install jenkins on mac"
             }
           },
           {
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jenkins/To install jenkins on mac.md",
+                "file": "jenkins/install jenkins on mac.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To install jenkins on mac"
+              "title": "Outline of install jenkins on mac"
             }
           },
           {
@@ -192,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "711324473b2431f1",
+  "active": "fedc88ed4211e6bc",
   "lastOpenFiles": [
     "Devops/Docker/4.DOCKER & Kubernetes.pdf",
-    "jenkins/To install jenkins on mac.md",
+    "jenkins/install jenkins on mac.md",
     "README.md",
     "Flux_desciptors/flux descriptors overview.md",
     "jenkins",
