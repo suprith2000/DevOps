@@ -32,8 +32,21 @@
               "icon": "lucide-file-text",
               "title": "4.DOCKER & Kubernetes"
             }
+          },
+          {
+            "id": "57203d69046cbd4d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Devops/shell_scripting.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "shell_scripting"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,6 +195,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -192,27 +206,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fedc88ed4211e6bc",
+  "active": "239209ee4e4d0312",
   "lastOpenFiles": [
-    "Devops/Docker/4.DOCKER & Kubernetes.pdf",
+    "Devops_notes_word_docs/rds.docx",
+    "Devops_notes_word_docs/devops all scripts.txt",
+    "Devops_notes_word_docs/All scripts.docx",
+    "Devops_notes_word_docs/AWS Amazon web services.docx",
+    "Devops_notes_word_docs/7.Ansible.docx",
+    "Devops_notes_word_docs/6.Terraform (1).docx",
+    "Devops_notes_word_docs/5.Helm (1).docx",
+    "Devops_notes_word_docs/4.DOCKER & Kubernetes.docx",
+    "Devops_notes_word_docs/3.AWS INTERVIEW NOTES (1).docx",
+    "Devops_notes_word_docs/2.Linux, Git Jenkins & AWS.docx",
+    "Devops_notes_word_docs/1.Introduction, CI CD (2) (3).docx",
+    "Screenshot 2025-06-19 at 12.04.08 PM.png",
+    "Screenshot 2025-06-18 at 2.51.33 PM.png",
+    "Pasted image 20250619115853.png",
+    "Pasted image 20250619115811.png",
+    "Pasted image 20250619115722.png",
+    "Devops/README.md",
     "jenkins/install jenkins on mac.md",
     "README.md",
     "Flux_desciptors/flux descriptors overview.md",
-    "jenkins",
-    "Flux_desciptors/flux_descriptors_guide.pdf",
     "Flux_desciptors/flux_descriptors_workflow.png",
-    "Flux_desciptors/Unconfirmed 536711.crdownload",
     "Devops/GIT/1. Version control system GIT.md",
-    "Flux_desciptors",
-    "Devops/Ansible/7.Ansible.pdf",
     "Devops/Kubernetes/3. prerequisites part 2.md",
-    "Devops/~$DOCKER & Kubernetes.docx",
     "Devops/Kubernetes/2. prerequisites part 1.md",
     "Devops/Kubernetes/1. Roadmap.md",
-    "Devops/Helm/5.Helm (1).pdf",
-    "Devops/Docker/Docker CheatSheet ApnaCollege.pdf",
     "Devops/Devops basics/1.Basics practise.md",
-    "Devops/Devops basics/1.Introduction, CI CD (2) (3).pdf",
     "Devops/Linux/4. Common Directories in Linux VMs.md",
     "Devops/Linux/3.VIM editor.md",
     "Devops/Linux/2. commands.md",
@@ -224,11 +245,6 @@
     "Pasted image 20250702151643.png",
     "Pasted image 20250702151358.png",
     "Pasted image 20250702151302.png",
-    "Pasted image 20250702151223.png",
-    "Pasted image 20250702151143.png",
-    "Pasted image 20250702151119.png",
-    "Pasted image 20250702151005.png",
-    "Pasted image 20250702150838.png",
     "OCI Foundation/OCI foundations -.md",
     "Untitled.md",
     "2025-06-16.md",
