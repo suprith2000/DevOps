@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 546.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,14 +190,14 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "41ec8c66240cce5f",
+  "active": "239209ee4e4d0312",
   "lastOpenFiles": [
+    "AI/Building Intelligent AI Agents From Concept to Implementation.pdf",
+    "AI/Building Generative AI Agents with Prompt Engineering-16-Oct.pdf",
     "2025-11-19.md",
     "Untitled 2.canvas",
     "Untitled.base",
     "Untitled 1.canvas",
-    "AI/Building Intelligent AI Agents From Concept to Implementation.pdf",
-    "AI/Building Generative AI Agents with Prompt Engineering-16-Oct.pdf",
     "jenkins/install jenkins on mac.md",
     "Devops/Docker/4.DOCKER & Kubernetes.pdf",
     "Devops/Helm/5.Helm (1).pdf",
