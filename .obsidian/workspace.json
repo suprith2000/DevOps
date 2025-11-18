@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "747e11715fd429c0",
+        "id": "f0323be2205493c0",
         "type": "tabs",
         "children": [
           {
-            "id": "2ed87bb3d5ee943f",
+            "id": "34b6473dd0df4cb3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,10 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "711324473b2431f1",
+  "active": "34b6473dd0df4cb3",
   "lastOpenFiles": [
-    "Untitled.base",
+    "2025-11-19.md",
     "Untitled 2.canvas",
+    "Untitled.base",
     "Untitled 1.canvas",
     "AI/Building Intelligent AI Agents From Concept to Implementation.pdf",
     "AI/Building Generative AI Agents with Prompt Engineering-16-Oct.pdf",
@@ -200,7 +201,6 @@
     "1. CRG System design",
     "Pasted image 20250824140802.png",
     "Devops/shell_scripting.pdf",
-    "Authentication_aothorization",
     "Screenshot 2025-06-19 at 12.04.08 PM.png",
     "Screenshot 2025-06-18 at 2.51.33 PM.png",
     "Pasted image 20250619115853.png",
