@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ce079d6c0cda912",
+        "id": "747e11715fd429c0",
         "type": "tabs",
         "children": [
           {
-            "id": "3f8b34c2c1b95052",
+            "id": "2ed87bb3d5ee943f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,8 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f8b34c2c1b95052",
+  "active": "711324473b2431f1",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 2.canvas",
     "Untitled 1.canvas",
     "AI/Building Intelligent AI Agents From Concept to Implementation.pdf",
     "AI/Building Generative AI Agents with Prompt Engineering-16-Oct.pdf",
