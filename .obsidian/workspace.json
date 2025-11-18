@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7dde016cf4add535",
+        "id": "9ce079d6c0cda912",
         "type": "tabs",
         "children": [
           {
-            "id": "513f700a79278ef5",
+            "id": "3f8b34c2c1b95052",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "711324473b2431f1",
+  "active": "3f8b34c2c1b95052",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
     "AI/Building Intelligent AI Agents From Concept to Implementation.pdf",
     "AI/Building Generative AI Agents with Prompt Engineering-16-Oct.pdf",
     "jenkins/install jenkins on mac.md",
