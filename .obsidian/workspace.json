@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -186,10 +186,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "34b6473dd0df4cb3",
+  "active": "41ec8c66240cce5f",
   "lastOpenFiles": [
     "2025-11-19.md",
     "Untitled 2.canvas",
