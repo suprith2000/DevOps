@@ -4,63 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f4fd5210ee76e304",
+        "id": "7dde016cf4add535",
         "type": "tabs",
         "children": [
           {
-            "id": "fedc88ed4211e6bc",
+            "id": "513f700a79278ef5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jenkins/install jenkins on mac.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "install jenkins on mac"
-            }
-          },
-          {
-            "id": "0b5d3e889a77d32b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Devops/Docker/4.DOCKER & Kubernetes.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "4.DOCKER & Kubernetes"
-            }
-          },
-          {
-            "id": "57203d69046cbd4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. CRG System design/design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "design"
-            }
-          },
-          {
-            "id": "162e06ddeff81b4b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AI/Building Generative AI Agents with Prompt Engineering-16-Oct.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Building Generative AI Agents with Prompt Engineering-16-Oct"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,12 +158,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 419.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,17 +177,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "162e06ddeff81b4b",
+  "active": "711324473b2431f1",
   "lastOpenFiles": [
+    "AI/Building Intelligent AI Agents From Concept to Implementation.pdf",
+    "AI/Building Generative AI Agents with Prompt Engineering-16-Oct.pdf",
+    "jenkins/install jenkins on mac.md",
+    "Devops/Docker/4.DOCKER & Kubernetes.pdf",
     "Devops/Helm/5.Helm (1).pdf",
     "AI/Building Generative AI Agents with Prompt Engineering-17-Oct.pdf",
-    "AI/Building Generative AI Agents with Prompt Engineering-16-Oct.pdf",
     "AI",
     "Devops/GIT/1. Version control system GIT.md",
     "Authentication_aothorization/basics.md",
     "OCI Foundation/OCI foundations -.md",
     "1. CRG System design/design.md",
-    "jenkins/install jenkins on mac.md",
     "Helidon/Introduction.md",
     "Flux_desciptors/flux_descriptors_guide.pdf",
     "Devops/Kubernetes/1. Roadmap.md",
@@ -240,9 +198,6 @@
     "Pasted image 20250824140802.png",
     "Devops/shell_scripting.pdf",
     "Authentication_aothorization",
-    "Devops_notes_word_docs/rds.docx",
-    "Devops_notes_word_docs/devops all scripts.txt",
-    "Devops_notes_word_docs/All scripts.docx",
     "Screenshot 2025-06-19 at 12.04.08 PM.png",
     "Screenshot 2025-06-18 at 2.51.33 PM.png",
     "Pasted image 20250619115853.png",
