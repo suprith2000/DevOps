@@ -11,10 +11,12 @@
             "id": "34b6473dd0df4cb3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "AI/Building Generative AI Agents with Prompt Engineering-16-Oct.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Building Generative AI Agents with Prompt Engineering-16-Oct"
             }
           }
         ]
@@ -156,13 +158,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "41ec8c66240cce5f",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 546.5
   },
   "left-ribbon": {
     "hiddenItems": {
