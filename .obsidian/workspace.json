@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f0323be2205493c0",
+        "id": "a2f769eae528d3b5",
         "type": "tabs",
         "children": [
           {
-            "id": "34b6473dd0df4cb3",
+            "id": "da36a8b205bf93b8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AI/Building Generative AI Agents with Prompt Engineering-16-Oct.pdf"
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Building Generative AI Agents with Prompt Engineering-16-Oct"
-            }
-          },
-          {
-            "id": "04f1ae6f3b44105c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,8 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04f1ae6f3b44105c",
+  "active": "da36a8b205bf93b8",
   "lastOpenFiles": [
+    "interview_preps_2.0/interview_preps_2.0/Welcome.md",
+    "interview_preps_2.0/interview_preps_2.0",
+    "interview_preps_2.0",
+    "Untitled 1.md",
     "AI/Building Intelligent AI Agents From Concept to Implementation.pdf",
     "AI/Building Generative AI Agents with Prompt Engineering-16-Oct.pdf",
     "2025-11-19.md",
@@ -223,9 +216,7 @@
     "Flux_desciptors/flux_descriptors_guide.pdf",
     "Devops/Kubernetes/1. Roadmap.md",
     "1. CRG System design.md",
-    "1. CRG System design",
     "Pasted image 20250824140802.png",
-    "Devops/shell_scripting.pdf",
     "Screenshot 2025-06-19 at 12.04.08 PM.png",
     "Screenshot 2025-06-18 at 2.51.33 PM.png",
     "Pasted image 20250619115853.png",
