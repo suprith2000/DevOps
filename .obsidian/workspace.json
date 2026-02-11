@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "Building Generative AI Agents with Prompt Engineering-16-Oct"
             }
+          },
+          {
+            "id": "04f1ae6f3b44105c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,11 +199,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "239209ee4e4d0312",
+  "active": "04f1ae6f3b44105c",
   "lastOpenFiles": [
     "AI/Building Intelligent AI Agents From Concept to Implementation.pdf",
     "AI/Building Generative AI Agents with Prompt Engineering-16-Oct.pdf",
